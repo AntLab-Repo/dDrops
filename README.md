@@ -10,7 +10,7 @@ If you find this code useful in your research, please cite the following papers:
 
 * Mimi Qian, Lin Cui, Xiaoquan Zhang, Fung Po Tso and Yuhui Deng, "dDrops: Detecting Silent Packet Drops on Programmable Data Plane", _Computer Networks_, 2022 (Accepted).
 ```bibtex
-@article{Qian2022,
+@article{Qian2022_dDrops,
   title={dDrops: Detecting Silent Packet Drops on Programmable Data Plane},
   author={Mimi Qian, Lin Cui, Xiaoquan Zhang, Fung Po Tso and Yuhui Deng},
   journal={Computer Networks},
